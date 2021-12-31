@@ -2,7 +2,7 @@
 These instruction will get you a copy of the project up and runing on your local machine
 
 ````
-> git clone https://github.com/snetch-gym/Carpe.git
+> git clone https://github.com/snetch-gym/nuna.git
 
 > npm i - to install modules
 > npx wdio wdio.conf.js --spec specs/translator/google-translator-spec.js - to run the test and get the results
